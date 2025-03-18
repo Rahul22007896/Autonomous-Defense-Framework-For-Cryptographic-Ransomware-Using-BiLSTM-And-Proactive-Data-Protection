@@ -1,5 +1,0 @@
-
-Attack Link
-
-
-http://localhost:5000/attack
