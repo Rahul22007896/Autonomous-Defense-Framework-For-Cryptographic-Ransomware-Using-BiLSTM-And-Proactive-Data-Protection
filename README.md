@@ -40,11 +40,10 @@ Dataset: Ransomware and benign byte/asm files
 #### Output2 - Name of the output
 ![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
-##📈Results and 🌍Impact
+## 📈Results and 🌍Impact
+
 *Achieved high accuracy in identifying ransomware samples.
 *Demonstrated the ability to block and remove ransomware in real-time.
 *Successfully encrypted and protected files using FPE against unauthorized access.
