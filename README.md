@@ -45,11 +45,17 @@ Dataset: Ransomware and benign byte/asm files
 ## 📈Results and 🌍Impact
 
 *Achieved high accuracy in identifying ransomware samples.
+
 *Demonstrated the ability to block and remove ransomware in real-time.
+
 *Successfully encrypted and protected files using FPE against unauthorized access.
+
 *Improves organizational resilience against ransomware threats.
+
 *Enables early threat detection, preventing financial and data losses.
+
 *Reduces dependency on traditional antivirus methods by adopting AI-driven protection.
+
 *Offers a modular and scalable solution for enterprises and individual users alike.
 
 
