@@ -1,9 +1,8 @@
-##🚀FileGuardian-Autonomous-Defense-Framework-For-Cryptographic-Ransomware-Using-BiLSTM-And-Proactive-Data-Protection
+## 🚀FileGuardian-Autonomous-Defense-Framework-For-Cryptographic-Ransomware-Using-BiLSTM-And-Proactive-Data-Protection
 File Guardian is an intelligent, proactive cybersecurity framework designed to detect and prevent ransomware attacks using deep learning and encryption. 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
-
+File Guardian is a comprehensive, AI-driven cybersecurity project aimed at real-time detection and proactive defense against ransomware attacks. Traditional security systems fall short against modern ransomware due to their reliance on known signatures. File Guardian solves this issue using a combination of advanced deep learning (BiLSTM) and cryptographic techniques (Format Preserving Encryption) to identify, block, and neutralize ransomware threats before they cause any harm.
+The system consists of multiple modules including a web interface for users/admins (RanFooler Tool), a training engine for malware detection, a real-time prediction model, and a data protection module that conceals sensitive files from ransomware encryption.
 ## 🌟 Features
 🔐 Real-Time Ransomware Detection using BiLSTM-based deep learning models.
 🛡️ Data Protection via Format Preserving Encryption (FPE).
@@ -12,7 +11,7 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 🖥️ Admin & User Interfaces for custom configurations and monitoring.
 🔁 Continuous Monitoring and Automated Alerts for active threats.
 
-##💻 System Requirements
+## 💻 System Requirements
 Hardware
 Processor: Intel® Core™ i5 or above
 RAM: 8 GB minimum
