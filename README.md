@@ -26,8 +26,9 @@ Frontend: HTML/CSS/JavaScript
 Dataset: Ransomware and benign byte/asm files
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+
+![Screenshot 2025-05-20 220558](https://github.com/user-attachments/assets/27c969c7-ebeb-41bf-8df6-a137341bcfae)
+
 
 
 ## Output
