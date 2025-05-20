@@ -1,4 +1,4 @@
-## 🚀FileGuardian-Autonomous-Defense-Framework-For-Cryptographic-Ransomware-Using-BiLSTM-And-Proactive-Data-Protection
+## FileGuardian:Autonomous-Defense-Framework-For-Cryptographic-Ransomware-Using-BiLSTM-And-Proactive-Data-Protection
 File Guardian is an intelligent, proactive cybersecurity framework designed to detect and prevent ransomware attacks using deep learning and encryption. 
 ## About
 File Guardian is a comprehensive, AI-driven cybersecurity project aimed at real-time detection and proactive defense against ransomware attacks. Traditional security systems fall short against modern ransomware due to their reliance on known signatures. File Guardian solves this issue using a combination of advanced deep learning (BiLSTM) and cryptographic techniques (Format Preserving Encryption) to identify, block, and neutralize ransomware threats before they cause any harm.
