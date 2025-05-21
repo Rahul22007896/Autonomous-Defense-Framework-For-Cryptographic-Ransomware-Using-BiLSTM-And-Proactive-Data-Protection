@@ -38,20 +38,20 @@ Dataset: Ransomware and benign byte/asm files
 
 ## Output
 
-#### Output1 - Home Page
+#### Output - Home Page
 ![Screenshot 2025-05-21 233008](https://github.com/user-attachments/assets/badf4d1d-5e25-4322-8494-ac31354fd61a)
 
 
-#### Output2 - Admin Login 
+#### Output - Admin Login 
 ![Screenshot 2025-05-21 232903](https://github.com/user-attachments/assets/e47c154c-086b-4735-8402-7127e4404389)
 
-#### Output2 - Adding Directory Page
+#### Output - Adding Directory Page
 ![Screenshot 2025-05-21 233053](https://github.com/user-attachments/assets/dbc9ae57-970c-4839-af76-12585d35d352)
 
-#### Output2 - Malware Detected Popup
+#### Output - Malware Detected Popup
 ![Screenshot 2025-05-21 233211](https://github.com/user-attachments/assets/3e80e44b-4411-497e-9567-df1a6421686c)
 
-#### Output2 - File Hide Popup
+#### Output - File Hidden Popup
 ![Screenshot 2025-05-21 233248](https://github.com/user-attachments/assets/12f0f81f-7059-4744-9ee9-72af71b311ea)
 
 
