@@ -18,16 +18,26 @@ The system consists of multiple modules including a web interface for users/admi
 
 ## 💻 System Requirements
 Hardware
+
 Processor: Intel® Core™ i5 or above
+
 RAM: 8 GB minimum
+
 Storage: 256 GB SSD
+
 OS: Windows 10 or 11
-Software
+
+## Software
 Python 3.7
+
 TensorFlow / Keras
+
 Flask / Django (for web interface)
+
 Word2Vec (for feature extraction)
+
 Frontend: HTML/CSS/JavaScript
+
 Dataset: Ransomware and benign byte/asm files
 
 ## System Architecture
@@ -54,28 +64,27 @@ Dataset: Ransomware and benign byte/asm files
 #### Output - File Hidden Popup
 ![Screenshot 2025-05-21 233248](https://github.com/user-attachments/assets/12f0f81f-7059-4744-9ee9-72af71b311ea)
 
+## 🌐 Impact
+
+Enhances cyber-resilience of both personal and enterprise systems.
+
+Reduces the risk of data loss and financial damage due to ransomware.
+
+Automates ransomware defense with minimal user intervention.
+
+Serves as a foundation for future research in AI-based cybersecurity.
 
 
 
 
+## 📊 Results
+Achieved high detection accuracy on custom ransomware datasets.
 
+Demonstrated effective blocking of real-world ransomware samples during simulation.
 
-## 📈Results and 🌍Impact
+Ensured zero data loss on protected files due to FPE.
 
-*Achieved high accuracy in identifying ransomware samples.
-
-*Demonstrated the ability to block and remove ransomware in real-time.
-
-*Successfully encrypted and protected files using FPE against unauthorized access.
-
-*Improves organizational resilience against ransomware threats.
-
-*Enables early threat detection, preventing financial and data losses.
-
-*Reduces dependency on traditional antivirus methods by adopting AI-driven protection.
-
-*Offers a modular and scalable solution for enterprises and individual users alike.
-
+Reduced false positives compared to traditional antivirus methods.
 
 
 
