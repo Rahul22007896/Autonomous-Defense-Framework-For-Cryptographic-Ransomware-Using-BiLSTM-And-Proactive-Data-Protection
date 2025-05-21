@@ -38,13 +38,25 @@ Dataset: Ransomware and benign byte/asm files
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Home Page
+![Screenshot 2025-05-21 233008](https://github.com/user-attachments/assets/badf4d1d-5e25-4322-8494-ac31354fd61a)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output2 - Admin Login 
+![Screenshot 2025-05-21 232903](https://github.com/user-attachments/assets/e47c154c-086b-4735-8402-7127e4404389)
+
+#### Output2 - Adding Directory Page
+![Screenshot 2025-05-21 233053](https://github.com/user-attachments/assets/dbc9ae57-970c-4839-af76-12585d35d352)
+
+#### Output2 - Malware Detected Popup
+![Screenshot 2025-05-21 233211](https://github.com/user-attachments/assets/3e80e44b-4411-497e-9567-df1a6421686c)
+
+#### Output2 - File Hide Popup
+![Screenshot 2025-05-21 233248](https://github.com/user-attachments/assets/12f0f81f-7059-4744-9ee9-72af71b311ea)
+
+
+
+
 
 
 
