@@ -5,10 +5,15 @@ File Guardian is a comprehensive, AI-driven cybersecurity project aimed at real-
 The system consists of multiple modules including a web interface for users/admins (RanFooler Tool), a training engine for malware detection, a real-time prediction model, and a data protection module that conceals sensitive files from ransomware encryption.
 ## 🌟 Features
 🔐 Real-Time Ransomware Detection using BiLSTM-based deep learning models.
+
 🛡️ Data Protection via Format Preserving Encryption (FPE).
+
 🧠 Machine Learning-Based Classification of ransomware vs benign software.
+
 📊 Simulated Attack Testing through RanFooler Web Tool.
+
 🖥️ Admin & User Interfaces for custom configurations and monitoring.
+
 🔁 Continuous Monitoring and Automated Alerts for active threats.
 
 ## 💻 System Requirements
