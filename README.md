@@ -30,11 +30,9 @@ OS: Windows 10 or 11
 ## Software
 Python 3.7
 
-TensorFlow / Keras
+TensorFlow 
 
-Flask / Django (for web interface)
-
-Word2Vec (for feature extraction)
+Flask 
 
 Frontend: HTML/CSS/JavaScript
 
